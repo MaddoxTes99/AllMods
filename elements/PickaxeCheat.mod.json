@@ -1,0 +1,31 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pickaxecheat",
+    "customModelName": "Normal",
+    "name": "!@#%?#$%",
+    "specialInfo": [
+      "Tu ne peux pas la test"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AllModsItem"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 128000,
+    "efficiency": 128000.0,
+    "attackSpeed": 0.0,
+    "enchantability": 128000,
+    "damageVsEntity": 0.0,
+    "usageCount": 128000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "PickaxeCheatToolInHandTick"
+    }
+  }
+}

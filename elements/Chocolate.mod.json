@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "chocolate",
+    "customModelName": "Normal",
+    "name": "Chocolate",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "Mmmmm sa sen le diabete"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AllModsItem"
+    },
+    "stackSize": 2,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

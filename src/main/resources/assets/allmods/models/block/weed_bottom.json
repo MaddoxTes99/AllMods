@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "allmods:blocks/weed2",
+    "particle": "allmods:blocks/weed1"
+  }
+}

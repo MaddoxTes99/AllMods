@@ -1,0 +1,31 @@
+{
+  "_fv": 13,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "rottenmilk",
+    "customModelName": "Normal",
+    "name": "Rotten Milk",
+    "rarity": "UNCOMMON",
+    "specialInfo": [
+      "Du Froumage cuit"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AllModsItem"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 8,
+    "saturation": 1.4000000000000001,
+    "eatingSpeed": 100,
+    "resultItem": {
+      "value": "Items.BUCKET"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "RottenMilkFoodEaten"
+    }
+  }
+}

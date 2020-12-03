@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "allmods:block/weed"
+    },
+    "half=lower": {
+      "model": "allmods:block/weed_bottom"
+    }
+  }
+}

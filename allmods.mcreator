@@ -1,0 +1,597 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "AllModsBlock",
+      "type": "tab",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "all_mods_block"
+    },
+    {
+      "name": "AllModsItem",
+      "type": "tab",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "all_mods_item"
+    },
+    {
+      "name": "FroumageFoodEaten",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "froumage_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Froumage",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "froumage"
+    },
+    {
+      "name": "RottenMilkFoodEaten",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_milk_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RottenMilk",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_milk"
+    },
+    {
+      "name": "CraftRottenMilk",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_rotten_milk"
+    },
+    {
+      "name": "CraftFroumage",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_froumage"
+    },
+    {
+      "name": "FroumagePaper",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "froumage_paper"
+    },
+    {
+      "name": "PickaxeCheatToolInHandTick",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pickaxe_cheat_tool_in_hand_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PickaxeCheat",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pickaxe_cheat"
+    },
+    {
+      "name": "MineraisCheat",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minerais_cheat"
+    },
+    {
+      "name": "IngotCheat",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_cheat"
+    },
+    {
+      "name": "BlockCheat",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_cheat"
+    },
+    {
+      "name": "Stickcheat",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stickcheat"
+    },
+    {
+      "name": "Craftcheatblock",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftcheatblock"
+    },
+    {
+      "name": "Craftcheatstick",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftcheatstick"
+    },
+    {
+      "name": "Craftcheatpickaxe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftcheatpickaxe"
+    },
+    {
+      "name": "Chocolate",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate"
+    },
+    {
+      "name": "Cow",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cow"
+    },
+    {
+      "name": "OverdozedGame",
+      "type": "painting",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "overdozed_game"
+    },
+    {
+      "name": "PickaxeCheatAchiv",
+      "type": "achievement",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pickaxe_cheat_achiv"
+    },
+    {
+      "name": "JoinQuandLaNourritureEstMangee",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "join_quand_la_nourriture_est_mangee",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Join",
+      "type": "food",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "join"
+    },
+    {
+      "name": "Weed",
+      "type": "plant",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weed"
+    },
+    {
+      "name": "Theblockframe2",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "theblockframe_2"
+    },
+    {
+      "name": "Theblockframe3",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "theblockframe_3"
+    },
+    {
+      "name": "TheBlock",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_block"
+    },
+    {
+      "name": "Guitheblock",
+      "type": "gui",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guitheblock"
+    },
+    {
+      "name": "Theblockframe2TickAleatoireAfficheParLeClient",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "theblockframe_2_tick_aleatoire_affiche_par_le_client",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Theblockframe3TickAleatoireAfficheParLeClient",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "theblockframe_3_tick_aleatoire_affiche_par_le_client",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TheBlockTickAleatoireAfficheParLeClient",
+      "type": "procedure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_block_tick_aleatoire_affiche_par_le_client",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Opentheblock",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opentheblock",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GuiFurnaceTheBlock",
+      "type": "gui",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_furnace_the_block"
+    },
+    {
+      "name": "Openfurnace",
+      "type": "procedure",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "openfurnace",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Openchest",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "openchest",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GuiChest",
+      "type": "gui",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_chest"
+    },
+    {
+      "name": "Guicraft",
+      "type": "gui",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guicraft"
+    },
+    {
+      "name": "Opencraft",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opencraft",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "discow",
+      "files": [
+        "untitled"
+      ],
+      "category": "music",
+      "subtitle": "discow"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.allmods.froumage_paper": "FroumagePaper",
+      "advancements.pickaxe_cheat_achiv.title": "/\"$\u0026%/?$\u0026/$?/$\"??%\u0026*/$%?\"//?%*/$%\"",
+      "item.allmods.join": "Join",
+      "block.allmods.theblockframe_2": "?",
+      "subtitles.discow": "discow",
+      "item.allmods.stickcheat": "\"/$?%/$?\u0026\"",
+      "item.allmods.rotten_milk": "Rotten Milk",
+      "item.allmods.froumage": "Froumage",
+      "block.allmods.theblockframe_3": "?",
+      "advancements.pickaxe_cheat_achiv.descr": "\"$/??\u0026/$%!?/%?\u0026\"!\"/%$/?/?%\u0026\"/$!\"/%?\u0026%?",
+      "block.allmods.the_block": "The Block",
+      "item.allmods.cow": "Discow",
+      "block.allmods.minerais_cheat": "!/$%%\u0026?/",
+      "item.allmods.chocolate": "Chocolate",
+      "block.allmods.block_cheat": "/$%?\"/$%?!\"*",
+      "block.allmods.weed": "Weed",
+      "item.allmods.pickaxe_cheat": "!@#%?#$%",
+      "itemGroup.taball_mods_item": "AllMods Item",
+      "itemGroup.taball_mods_block": "AllMods Block",
+      "item.allmods.ingot_cheat": "!\"\"$/%?\"/$%",
+      "item.allmods.cow.desc": "Dl\u0027a bonne musiqueeeeee"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "allmods",
+    "modName": "AllMods18.0",
+    "version": "1.0.0",
+    "author": "pures, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.allmods",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

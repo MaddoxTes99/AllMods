@@ -1,0 +1,70 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "TheBlock",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "TheBlock",
+          "x": 192,
+          "y": 47
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Craft",
+          "onClick": {
+            "name": "Opencraft"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Craft",
+          "x": 186,
+          "y": 82
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Furnace",
+          "onClick": {
+            "name": "Openfurnace"
+          },
+          "width": 60,
+          "height": 20,
+          "name": "Furnace",
+          "x": 181,
+          "y": 140
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Chest",
+          "onClick": {
+            "name": "Openchest"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Chest",
+          "x": 186,
+          "y": 108
+        }
+      }
+    ]
+  }
+}

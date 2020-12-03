@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "allmods:blocks/theblck",
+    "up": "allmods:blocks/theblck",
+    "north": "allmods:blocks/theblockframe2",
+    "east": "allmods:blocks/theblockframe2",
+    "south": "allmods:blocks/theblockframe2",
+    "west": "allmods:blocks/theblockframe2",
+    "particle": "allmods:blocks/theblck"
+  }
+}

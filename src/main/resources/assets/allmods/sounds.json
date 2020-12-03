@@ -1,0 +1,12 @@
+{
+  "discow": {
+    "category": "music",
+    "subtitle": "subtitles.discow",
+    "sounds": [
+      {
+        "name": "allmods:untitled",
+        "stream": true
+      }
+    ]
+  }
+}

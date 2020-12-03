@@ -1,0 +1,42 @@
+{
+  "group": "allmods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "allmods:ingot_cheat"
+    },
+    "1": {
+      "item": "allmods:ingot_cheat"
+    },
+    "2": {
+      "item": "allmods:ingot_cheat"
+    },
+    "3": {
+      "item": "allmods:ingot_cheat"
+    },
+    "4": {
+      "item": "allmods:ingot_cheat"
+    },
+    "5": {
+      "item": "allmods:ingot_cheat"
+    },
+    "6": {
+      "item": "allmods:ingot_cheat"
+    },
+    "7": {
+      "item": "allmods:ingot_cheat"
+    },
+    "8": {
+      "item": "allmods:ingot_cheat"
+    }
+  },
+  "result": {
+    "item": "allmods:block_cheat",
+    "count": 1
+  }
+}

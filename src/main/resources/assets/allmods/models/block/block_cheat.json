@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "allmods:blocks/blockcheat",
+    "up": "allmods:blocks/blockcheat",
+    "north": "allmods:blocks/blockcheat",
+    "east": "allmods:blocks/blockcheat",
+    "south": "allmods:blocks/blockcheat",
+    "west": "allmods:blocks/blockcheat",
+    "particle": "allmods:blocks/blockcheat"
+  }
+}

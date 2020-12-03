@@ -1,0 +1,30 @@
+{
+  "group": "allmods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "allmods:block_cheat"
+    },
+    "1": {
+      "item": "allmods:block_cheat"
+    },
+    "2": {
+      "item": "allmods:block_cheat"
+    },
+    "4": {
+      "item": "allmods:stickcheat"
+    },
+    "7": {
+      "item": "allmods:stickcheat"
+    }
+  },
+  "result": {
+    "item": "allmods:pickaxe_cheat",
+    "count": 1
+  }
+}

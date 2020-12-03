@@ -1,0 +1,88 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Furnace",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Furnace",
+          "x": 196,
+          "y": 47
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 64,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #64",
+          "x": 154,
+          "y": 59
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "Items.COAL#0"
+          },
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "id": 65,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #65",
+          "x": 153,
+          "y": 91
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 66,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #66",
+          "x": 234,
+          "y": 73
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Back",
+          "onClick": {
+            "name": "Opentheblock"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "Back",
+          "x": 247,
+          "y": 93
+        }
+      }
+    ]
+  }
+}

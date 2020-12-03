@@ -1,0 +1,31 @@
+{
+  "_fv": 13,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "join",
+    "customModelName": "Normal",
+    "name": "Join",
+    "rarity": "UNCOMMON",
+    "specialInfo": [
+      "mmmmmmmmmmmmmmm"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AllModsItem"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "bow",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "JoinQuandLaNourritureEstMangee"
+    }
+  }
+}

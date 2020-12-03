@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "allmods:blocks/mineraischeat",
+    "up": "allmods:blocks/mineraischeat",
+    "north": "allmods:blocks/mineraischeat",
+    "east": "allmods:blocks/mineraischeat",
+    "south": "allmods:blocks/mineraischeat",
+    "west": "allmods:blocks/mineraischeat",
+    "particle": "allmods:blocks/mineraischeat"
+  }
+}

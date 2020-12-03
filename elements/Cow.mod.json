@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "discow",
+    "name": "Discow",
+    "description": "Dl'a bonne musiqueeeeee",
+    "creativeTab": {
+      "value": "CUSTOM:AllModsItem"
+    },
+    "music": {
+      "value": "CUSTOM:discow"
+    },
+    "specialInfo": [
+      "Dl'a bonne musiqueeeeee"
+    ],
+    "hasGlow": false
+  }
+}
